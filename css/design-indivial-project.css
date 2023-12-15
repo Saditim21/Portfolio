@@ -207,6 +207,7 @@ h1 {
 
   z-index: var(--z);
   transition: .3s ease-out;
+  background-color: #999999;
 }
 
 .ci img {
