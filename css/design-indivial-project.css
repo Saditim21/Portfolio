@@ -317,3 +317,9 @@ input:not(:checked)+label+.ci {
 .portfolio-sketch-4{
     max-width: 100%;
 }
+
+.arrow-back{
+  font-size: 2.5rem;
+  display: inline-flex;
+}
+
